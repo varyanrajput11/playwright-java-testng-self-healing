@@ -30,8 +30,8 @@ If the primary locator fails, the framework automatically retries fallback
 locators and logs which one was used.
 
 Example log:
-[SELF-HEAL] 'Username Field' fell back from [css=#user-name-broken]
-to [css=input[placeholder='Username']]
+[SELF-HEAL] 'Username Field' fell back from [css=#user-name-broken] to [css=input[name='user-name']]
+PASSED: tests.LoginSmokeTest.login_should_navigate_to_products
 
 
 ## How to run (Eclipse)
