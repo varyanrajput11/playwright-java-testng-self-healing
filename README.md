@@ -41,3 +41,5 @@ PASSED: tests.LoginSmokeTest.login_should_navigate_to_products
 
 ## Demo Application
 Tests use https://www.saucedemo.com for demonstration purposes only.
+
+🎥 Demo Video: A short walkthrough demonstrating the self-healing locator behavior and framework structure is available in this repository.
