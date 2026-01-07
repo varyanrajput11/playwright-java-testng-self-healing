@@ -1,3 +1,5 @@
+[![Watch Demo](./thumbnail.png)](./Building%20a%20Robust%20UI%20Automation%20Framework%20with%20Playwright%20and%20TestNG.mp4)
+
 # Playwright Java + TestNG Self-Healing POC
 
 This project demonstrates a production-style UI automation framework using:
@@ -41,5 +43,3 @@ PASSED: tests.LoginSmokeTest.login_should_navigate_to_products
 
 ## Demo Application
 Tests use https://www.saucedemo.com for demonstration purposes only.
-
-🎥 Demo Video: A short walkthrough demonstrating the self-healing locator behavior and framework structure is available in this repository.
